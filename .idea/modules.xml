@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-refactoring-best-practices.iml" filepath="$PROJECT_DIR$/.idea/java-refactoring-best-practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/demos/m4/refactoring_best_practices_bloaters.iml" filepath="$PROJECT_DIR$/01/demos/m4/refactoring_best_practices_bloaters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/demos/m5/refactoring_best_practices_bloaters (1).iml" filepath="$PROJECT_DIR$/01/demos/m5/refactoring_best_practices_bloaters (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/demos/m6/refactoring_best_practices_bloaters (2).iml" filepath="$PROJECT_DIR$/01/demos/m6/refactoring_best_practices_bloaters (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/demos/m3-end/refactoring_best_practices_bloaters (3).iml" filepath="$PROJECT_DIR$/01/demos/m3-end/refactoring_best_practices_bloaters (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/demos/m3-start/refactoring_best_practices_bloaters (4).iml" filepath="$PROJECT_DIR$/01/demos/m3-start/refactoring_best_practices_bloaters (4).iml" />
+    </modules>
+  </component>
+</project>
